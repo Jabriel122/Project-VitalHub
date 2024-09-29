@@ -31,6 +31,4 @@ O objetivo do projeto é criar um aplicativo que reúne médicos, pacientes e cl
 
 # Para mais detalhe 
 
-O Projeto inteiro está nesse repósitório: https://github.com/MarceloAC04/Project-VitalHub 
-
 Veja nosso Slide: https://www.canva.com/design/DAGFG8NbOy8/QyOsQiZ9GGLsPHWZ3thNjg/view?utm_content=DAGFG8NbOy8&utm_campaign=designshare&utm_medium=link&utm_source=editor
